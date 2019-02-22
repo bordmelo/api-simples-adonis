@@ -6,8 +6,10 @@ Aplicação simples com autenticação e JWT.
 
 Clonar repositório
 
-`cd api-simples-adonis`
-`npm install`
+```js
+cd api-simples-adonis
+npm install
+```
 
 
 ### Migration do banco de dados
